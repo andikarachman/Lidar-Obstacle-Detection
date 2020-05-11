@@ -13,8 +13,8 @@ We will use the data from Lidar to track multiple cars on the road.
 ```bash
 $> sudo apt install libpcl-dev
 $> cd ~
-$> git clone https://github.com/andikarachman/Car-Obstacle-Detection.git
-$> cd Car-Obstacle-Detection
+$> git clone https://github.com/andikarachman/Lidar-Obstacle-Detection.git
+$> cd Lidar-Obstacle-Detection
 $> mkdir build && cd build
 $> cmake ..
 $> make
